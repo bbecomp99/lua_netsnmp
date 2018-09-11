@@ -19,7 +19,7 @@ sswitch = "s"
 SomeString5 = "CustomString"
 SomeString6 = "CustomString"
 
--- The below filter certian string values suitable for passing through the net-snmp .exe's
+-- The below lines filter certian string values to make them suitable for passing through the net-snmp .exe's
 
 -- Messy_String1 = string.gsub(Messy_String1,'\n'," ") 
 
