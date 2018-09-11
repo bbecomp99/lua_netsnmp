@@ -1,2 +1,2 @@
 # lua_netsnmp
-Below is the Lua Syntax to run the NetSNMP snmptrap.exe
+Basic Lua Syntax to run the Net-SNMP snmptrap.exe. 
